@@ -1,12 +1,12 @@
-## Descripción
-Un simple "Hola Node!" que se muestra por pantalla.
+## Description
+A simple "Hola Node!" displayed in the screen.
 
-Este proyecto es parte del siguiente tutorial: [Cómo instalar y utilizar Node.js y npm](https://www.neoguias.com/node-npm/)
+This project is part of the tutorial: [Cómo instalar y utilizar Node.js y npm](https://www.neoguias.com/node-npm/)
 
-## Autor
+## Author
 
-* **Edu Lazaro** - *Primera Versión*
+* **Edu Lazaro** - *First version*
 
 ## License
 
-Licencia [LICENSE.md](LICENSE.md)
+License [LICENSE.md](LICENSE.md)
