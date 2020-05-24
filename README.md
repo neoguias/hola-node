@@ -5,7 +5,7 @@ Este proyecto es parte del siguiente tutorial: [Cómo instalar y utilizar Node.j
 
 ## Autor
 
-* **Edu Lazaro** - *Primera Versión* - [PurpleBooth](https://github.com/neeonez)
+* **Edu Lazaro** - *Primera Versión*
 
 ## License
 
