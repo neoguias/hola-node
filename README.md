@@ -1,7 +1,7 @@
 ## Descripción
 Un simple "Hola Node!" que se muestra por pantalla.
 
-Este proyecto es parte del siguiente tutorial: [Como instalar y utilizar Node.js y Git](https://www.neoguias.com/node-npm/)
+Este proyecto es parte del siguiente tutorial: [Como instalar y utilizar Node.js y npm](https://www.neoguias.com/node-npm/)
 
 ## Autor
 
